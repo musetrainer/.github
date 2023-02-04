@@ -1,6 +1,10 @@
 # MuseTrainer 🎹
 
+> MusicXML Piano Trainer app for iPad and the Web.
+
 The only app you'll need for all the songs out there 🎵 🎶
+
+---
 
 [Discussions][1] &middot; [FAQ][4] &middot; [Web app][2] &middot; [iOS app][3]
 
