@@ -10,6 +10,6 @@ The only app you'll need for all the songs out there 🎵 🎶
 
 
 [1]: https://github.com/orgs/musetrainer/discussions
-[2]: https://musetrainer.com
-[4]: https://help.musetrainer.com/support.html
-[5]: https://lib.musetrainer.com
+[2]: https://musetrainer.github.io
+[4]: https://musetrainer.github.io/help/support.html
+[5]: https://musetrainer.github.io/lib
